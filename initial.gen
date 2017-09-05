@@ -1,0 +1,10 @@
+width  = 3000
+height = 2000
+number = 100
+radius = 300
+elemSize = 10
+density = 1.0
+penaltyRatio = 0.5
+rental = 72000.0
+rentalSigma = 4000.0
+upkeep = 36000.0
